@@ -1,0 +1,25 @@
+{
+  "name": "node_task1",
+  "version": "1.0.0",
+  "description": "This is a file iterator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameerdutta9703/DEP-NodeJS.git"
+  },
+  "keywords": [
+    "path",
+    "crypto",
+    "crawler",
+    "iterator"
+  ],
+  "author": "sameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameerdutta9703/DEP-NodeJS/issues"
+  },
+  "homepage": "https://github.com/sameerdutta9703/DEP-NodeJS#readme"
+}

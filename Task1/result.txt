@@ -1,0 +1,65 @@
+Code Executed at Wed Apr 08 2020 23:41:10 GMT+0530 (India Standard Time)
+[+]D:\Documental_Files
+	 -D:\Documental_Files\Aadhar_card.jpg	-[MD5]->4c4a6493a3dd25b088ca034fa7ab8b4dt-[SHA!]->42421ef5f22cec7d7cf6274b97cf5bf3ea79589f
+	 -D:\Documental_Files\Aadhar_Sameer.pdf	-[MD5]->3b3f4621a96bb8fd0b7bc0eda4f2ed25t-[SHA!]->770f28c7222e4e57b438c50e19cc8791d075931b
+[+]D:\Documental_Files\College Marks
+[+]D:\Documental_Files\College Marks\alldocuments
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_103532__01.jpg	-[MD5]->811f93019a6c00d03b3d3ba15ed84c4dt-[SHA!]->7322be60ccbd1ab0c8e4e64bfa131a0b25284927
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_103547__01.jpg	-[MD5]->62846b05b364fe1873c1cb8b7896dba4t-[SHA!]->247cd7895ecbd621a39420555ef4f3f10df4ba86
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_103558__01.jpg	-[MD5]->dbf482ba334d5460254702bd3d46c6eet-[SHA!]->a670f841ead8d77cca87d504e714707fc4e0ceff
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_103608__01.jpg	-[MD5]->e2c2e4d55730c8297f74b581d3822393t-[SHA!]->9b67ea3e57dce01069a00d5844c72f6089709cc3
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_103620__01.jpg	-[MD5]->de08d16cb141b5529abeb855b81702eet-[SHA!]->2ba5e2cd387dd1685f16630aa3dbd0e2cb074cc7
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_103907__01.jpg	-[MD5]->4e9615ba0319de7cc20167bcac58a055t-[SHA!]->40803db3e24f78deab2b1ada43c4a097c0642da2
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_103920__01.jpg	-[MD5]->46691b12d0c14a959c96fe1b38c616c2t-[SHA!]->7fc7e9e377e6bbaf142860d75f90abe6175a69f9
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_104010__01.jpg	-[MD5]->c42220fd543ae4b4dc679bbf54535242t-[SHA!]->bc0d4cd1e46286380e5455f9dfaeda35f64428f8
+	 -D:\Documental_Files\College Marks\alldocuments\IMG_20181230_104023__01.jpg	-[MD5]->8a5b6aa3f27a14c09634caa619ecd011t-[SHA!]->2ec653d3d8328baf5522cd2b026eaf1f19b05202
+[+]D:\Documental_Files\College Marks\compressjpeg
+	 -D:\Documental_Files\College Marks\compressjpeg\10thMR.jpg	-[MD5]->8f5b1d8f2a23435a5a804cce3be9770dt-[SHA!]->d00c2361a154fd265b1644ff2963e845f7e8b6db
+	 -D:\Documental_Files\College Marks\compressjpeg\10thPC.jpeg	-[MD5]->5b8aad331685a6700dab3ef2db48da17t-[SHA!]->7a235aa81789e5e6a8eb0a9f781075199c55230b
+	 -D:\Documental_Files\College Marks\compressjpeg\12thMR.jpg	-[MD5]->ec247057fb5dc963accce90084ce680ct-[SHA!]->368fb2583f4f0d97f5777159b81d38dc5f28d6f7
+	 -D:\Documental_Files\College Marks\compressjpeg\12thPC.jpeg	-[MD5]->c9da8a08e22673524057707a989eeca2t-[SHA!]->968ef41fa731633011991f32d3e8122ac5f9f404
+	 -D:\Documental_Files\College Marks\compressjpeg\1st.jpg	-[MD5]->90e44ccd19c0d648ea14f399e8dc5624t-[SHA!]->711a51aa10f4dea88c368fd05f01633a2d00e01d
+	 -D:\Documental_Files\College Marks\compressjpeg\2nd.jpg	-[MD5]->585285b9aa93cd81dc515d78482da11et-[SHA!]->a59bbf9ec495d7d528ba716a91c9aa03ff15d5c8
+	 -D:\Documental_Files\College Marks\compressjpeg\3rd.jpg	-[MD5]->ad807a610e84e8c8c339a0fb7bb2d902t-[SHA!]->b1494f0e727180a1db097843a8cb311b05771e10
+	 -D:\Documental_Files\College Marks\compressjpeg\4th.jpg	-[MD5]->886a850e94bc923137d02593fdb80a46t-[SHA!]->1b77ee9b24ae75be7dd03cf3458919d2fefe0350
+	 -D:\Documental_Files\College Marks\compressjpeg\Aadhar.jpg	-[MD5]->a389f1a396490edc0639dfc463666021t-[SHA!]->ce85825330aededf6e3aae829e2422008694c3e0
+	 -D:\Documental_Files\College Marks\sameer.pdf	-[MD5]->f2d45d6bd55bac87944c44ebc55ac959t-[SHA!]->a19d3e6387df0f26a896ebabd469567eaeb46481
+	 -D:\Documental_Files\College Marks\sem1.pdf	-[MD5]->d7d6b0e3d1e998f5ac397748d754e87dt-[SHA!]->9a01d2eda1b61dde05e34a05bbdbe4433749c414
+	 -D:\Documental_Files\College Marks\sem2.pdf	-[MD5]->34943cd08629c4eded827900808b9858t-[SHA!]->e43a78223ffaaab4ed83f9406578330d41083186
+	 -D:\Documental_Files\College Marks\sem4.pdf	-[MD5]->3d451eee35272a1f173f3ffe2eea4b86t-[SHA!]->dc4472688d3125abada090a33686b759c95cac1c
+	 -D:\Documental_Files\College Marks\swm2eng.pdf	-[MD5]->e265c3248a6a43993a8dd49a9b7b576at-[SHA!]->f2e1694b4b35ac6e6b5e9ba7d50ee20e6950e5b9
+	 -D:\Documental_Files\College Marks\swm3.pdf	-[MD5]->cd5cdc5614eea4b96a6ae58188a09330t-[SHA!]->eb6e3e3c7d5bd3a62fa0aafd892565e0e6a6f8e4
+	 -D:\Documental_Files\College Marks\wrong.pdf	-[MD5]->7dd0247b97eb7822c6f5b6c26b7d30det-[SHA!]->262a7753d15182cbd25c0a7dc4b0f6e3a6ccf601
+[+]D:\Documental_Files\EPAM Internship
+	 -D:\Documental_Files\EPAM Internship\DotNet_Report_1.docx	-[MD5]->0996decb0512565cde156ce552c7175dt-[SHA!]->18b2a33c8a09d1b1905f80886d910f53ff8f2757
+[+]D:\Documental_Files\EPAM Internship\Internship report and Doc
+	 -D:\Documental_Files\EPAM Internship\Internship report and Doc\DotNet_Report_1.pdf	-[MD5]->49cc13b9e0bbdd8df9804e8b8df80df1t-[SHA!]->3e7f2d4e4b2a507789a8b5c64bd31bb21554619f
+	 -D:\Documental_Files\EPAM Internship\Internship report and Doc\MEAN_Report_2.pdf	-[MD5]->552a01164d862d9a8b9c64c6b224be2et-[SHA!]->192d3a9045c060f53fe0686d0b439b8a47f85ac3
+	 -D:\Documental_Files\EPAM Internship\Internship report and Doc\Offer Letter-Internship 2020-Sameer.pdf	-[MD5]->fd906f9df11c2b42be76a83c57a121e8t-[SHA!]->94e60a08a230b11f80ce32a24214cc9065ead93e
+	 -D:\Documental_Files\EPAM Internship\Internship report and Doc\SameerDutta_Undertaking.pdf	-[MD5]->7f67f3fd519ca6866723af8cdb29008at-[SHA!]->1b89ae4cfefe9ea4e92c91045fb5f25f14f9c331
+	 -D:\Documental_Files\EPAM Internship\MEAN_Report_2.docx	-[MD5]->d5dbd4874bbaa206e1f992ec775e4c5bt-[SHA!]->dcaebe0550441939c8c246ae92d256bce3ad5cee
+	 -D:\Documental_Files\EPAM Internship\SQL_Server.pptx	-[MD5]->193952d1e7c9c0c5eefb568fae7fd710t-[SHA!]->75e326029b6801d3a4aba0e30d171b6c6dd00fb4
+	 -D:\Documental_Files\my_photo.jpg	-[MD5]->4f3f48ce4ca25986fefc51ad0bf5c916t-[SHA!]->19b2610dfdb3f71c224977c814cc855d9885bc07
+	 -D:\Documental_Files\OnePlus Recipt.jpg	-[MD5]->e801a86fe3d9ab74371c224436dd3602t-[SHA!]->3445b3c75dbaa35c346552489bb45c783d7dc3a3
+	 -D:\Documental_Files\PanCard_Sameer.pdf	-[MD5]->2a6af5426c279a443034cb6a2a56ad59t-[SHA!]->cdaf2d6464fe2cbd601544609c5f6daaa2f9e516
+	 -D:\Documental_Files\Pan_card.jpg	-[MD5]->a6d9f7dd6976d6adeb53f63595db980ct-[SHA!]->043e0d1b468fc04734d1e4c418057b50b371ba0a
+[+]D:\Documental_Files\Passport_Docs
+	 -D:\Documental_Files\Passport_Docs\Appointment Reciept.pdf	-[MD5]->650edcfc4f2e06f25f430147e3742fbct-[SHA!]->b5b9448d932e636039cee5cedfbc95fe61fbb231
+	 -D:\Documental_Files\Passport_Docs\Passport_Application _Form_1.pdf	-[MD5]->6085d63617df37d1443ccd012f9c0814t-[SHA!]->c64908da687e47d8f35f460151247440fd091c2b
+	 -D:\Documental_Files\Passport_Docs\Payment Receipt.pdf	-[MD5]->6768e08183db9a38b992b461168b48f9t-[SHA!]->6e4b60b1313f638b1e72325065e38e202b030305
+	 -D:\Documental_Files\Passport_Docs\View_Print Submitted Form.pdf	-[MD5]->7ac85a254fd8b61dd41ab8f691d3a54at-[SHA!]->9601ef55b24ecd05472980d668a67cf96cd384e2
+[+]D:\Documental_Files\PPT_Template
+	 -D:\Documental_Files\PPT_Template\Gower · SlidesCarnival.pptx	-[MD5]->614cbd7eaed538cc9d8bbfae21163ad9t-[SHA!]->b2c65b8efad52e7b0d44fabaf80829702e35e3dd
+	 -D:\Documental_Files\PPT_Template\Juliet · SlidesCarnival.pptx	-[MD5]->a223bf09746bd03e6a64ee4fe3ea1372t-[SHA!]->3b618de473553a26d96e5267d6368c97943808cb
+[+]D:\Documental_Files\RESUME_Professional
+	 -D:\Documental_Files\RESUME_Professional\Naman_Bhalla_Resume (2).docx	-[MD5]->bd17ae0a59d9011920cb3eb54ffd5228t-[SHA!]->15a23fdf2562129432626606d89cb039a80f7abf
+	 -D:\Documental_Files\RESUME_Professional\Naman_Bhalla_Resume (2).pdf	-[MD5]->8faf1e4d8b80f0a2d450b3fbf2baed09t-[SHA!]->99f945607aa3b6e574b322a294e3bf1f836da6bd
+	 -D:\Documental_Files\RESUME_Professional\SameerDutta_InternshalaResume.pdf	-[MD5]->0a4d5fa299f982384df7892543b9f2ect-[SHA!]->3a9b381ce102406889840b634aaf011a86f78c41
+	 -D:\Documental_Files\RESUME_Professional\Sameer_CoverLetter.docx	-[MD5]->d41d8cd98f00b204e9800998ecf8427et-[SHA!]->da39a3ee5e6b4b0d3255bfef95601890afd80709
+	 -D:\Documental_Files\RESUME_Professional\Sameer_new_cv.docx	-[MD5]->bd59c411a7d4d13f45d225b6471e0e57t-[SHA!]->e9b4cca70db478a4d42391fafb3ef9ecb2accf99
+	 -D:\Documental_Files\RESUME_Professional\Sameer_new_cv.pdf	-[MD5]->11b4fedb14d620e3e18c33a282194905t-[SHA!]->aa590fed48a44ab2cb4d420d93967144623ff817
+	 -D:\Documental_Files\Sameer_College_ID_Card.jpg	-[MD5]->8c5d18779a9716d573a9e5193e5cfe0bt-[SHA!]->07b3da030b8626c6d0c8b37feee8b81a59426a84
+	 -D:\Documental_Files\Sameer_DL.jpeg	-[MD5]->e60a9a49426f53a0c0b799bf44290e46t-[SHA!]->070cc046bbbd9ad6c4a54664fb498b4c274b0b94
+	 -D:\Documental_Files\Sameer_Dl.pdf	-[MD5]->aae37db61f7527e6162d17689209336et-[SHA!]->2b1bd0f2a2635379f93c45a02ff4457e920f3b63
+	 -D:\Documental_Files\Sameer_PAN.jpg	-[MD5]->9c519c4a51886dd57a39074f23fb49d9t-[SHA!]->106c9be1e60a84fb5fdaf74f73bfd5b7afb22eaa
+	 -D:\Documental_Files\sameer_photo.jpg	-[MD5]->81864f623479c9a9395a34b0d80ca537t-[SHA!]->7987dde77d3b9b4982eefa87b1f5dc1669f7be29
