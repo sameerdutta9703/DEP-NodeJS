@@ -1,0 +1,88 @@
+.navbar {
+    background-color: cornsilk;
+}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    color: #000000;
+    padding-left: 18%;
+}
+
+.search-area {
+    border: 1.5px solid #ccc;
+    padding: 3px 20px 3px 20px;
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 17px;
+}
+
+.searchbar {
+    border: 0;
+    outline: none;
+}
+
+.icons {
+    font-size: 25px;
+    color: #000000;
+    padding-right: 18%;
+}
+
+.fa {
+    color: #000000;
+    padding-right: 10px;
+}
+
+.useImage {
+    max-width: 20px;
+}
+
+.card {
+    margin: 3%;
+    margin-right: 30%;
+    margin-left: 30%;
+    -webkit-box-shadow: 10px 10px 25px -10px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 25px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 25px -10px rgba(0, 0, 0, 0.75);
+}
+
+.card-body {
+    background-color: rgb(236, 236, 236);
+}
+
+.profile-area{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#profile {
+    max-width: 40px;
+}
+
+.name {
+    text-transform: uppercase;
+    font-family: 'Passion One', cursive;
+    font-size: 20px;
+    margin-top: 10%;
+    color: #3b5998;
+}
+
+#more{
+    max-width: 20px;
+}
+
+.post-area {
+    margin-top: 15px;
+}
+
+#new-post{
+    width: 100%;
+}
+
+.postbtn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 5px;
+}

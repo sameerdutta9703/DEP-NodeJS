@@ -1,0 +1,27 @@
+{
+    "sameer":{
+        "fullname": "Sameer Dutta",
+        "email": "sameer@node.com",
+        "password": "sam123"
+    },
+    "rahul":{
+        "fullname": "Rahul Bhatia",
+        "email": "rahul@node.com",
+        "password": "rah123"
+    },
+    "vinay":{
+        "fullname": "Vinay Kumar",
+        "email": "vinay@node.com",
+        "password": "vin123"
+    },
+    "pratik":{
+        "fullname": "Pratik Ghosh",
+        "email": "pratik@node.com",
+        "password": "pra123"
+    },
+    "kaushik":{
+        "fullname": "Kaushik Ojha",
+        "email": "kaushik@node.com",
+        "password": "kau123"
+    }
+}

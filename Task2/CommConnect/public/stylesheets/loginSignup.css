@@ -1,0 +1,111 @@
+.main-container {
+    text-align: center;
+}
+
+.headpart {
+    margin-top: 5%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+
+.quote {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.card {
+    -webkit-box-shadow: 10px 10px 25px -10px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 25px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 25px -10px rgba(0, 0, 0, 0.75);
+    margin-bottom: 10%;
+}
+
+.cbody {
+    padding: 40px 50px 40px 50px;
+}
+
+#fullname {
+    font-size: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#username {
+    font-size: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#email {
+    font-size: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#password {
+    font-size: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#cpassword {
+    font-size: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#signbtn {
+    font-size: 20px;
+}
+
+#forgot {
+    font-size: 20px;
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.other-option {
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.loginbtn {
+    margin-top: 20px;
+}
+
+#fb {
+    background-color: #3b5998;
+    font-size: large;
+    padding: 5px 35px 5px 35px;
+    margin-right: 20px;
+}
+
+#google {
+    background-color: #db3236;
+    font-size: large;
+    padding: 5px 40px 5px 40px;
+}
+
+#lead {
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#signblack {
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: black;
+    padding: 10px;
+    border: black;
+}
