@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CommConnect | Home</title>
+    <link rel="stylesheet" href="/stylesheets/home.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Passion+One&family=Bangers&family=Pacifico&family=Quicksand&display=swap"
+        rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+
+<body onload="loadHome()">
+
+    <header>
+        <nav class="navbar">
+            <a href="home.html" class="logo">CommConnect</a>
+            <div class="search-area">
+                <i class="fa fa-search"></i>
+                <input type="search" class="searchbar" placeholder="Search" autocomplete="off">
+            </div>
+            <div class="icons">
+                <a href="#"><i class="fa fa-envelope-open-o" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-bell-o" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-user-o" aria-hidden="true"></i></a>
+                <a href="index.html"><i class="fa fa-sign-out" aria-hidden="true"></i></a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- new post -->
+    <div class="card">
+        <div class="card-body">
+            <div class="profile-area">
+                <p>
+                    <img src="/images/user.png" alt="#" id="profile">
+                    <span class="name" id="name"></span>
+                </p>
+                <p>
+                    <img src="/images/more.png" alt="more" id="more">
+                </p>
+            </div>            
+            <div class="post-area">
+                <textarea name="new-post" id="new-post" rows="4" placeholder="Share an update"></textarea>
+                <div class="postbtn">
+                    <p></p>
+                    <button type="button" class="btn btn-info" onclick="loadNewPost()">Post</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- existing-post -->
+    <div id="parent-post"></div>
+    <script src="/javascripts/home.js"></script>
+</body>
+
+</html>
